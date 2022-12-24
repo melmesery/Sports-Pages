@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": "1",
-            "product": "./db/1.webp",
+            "product": "db/1.webp",
             "brand": "Nike",
             "des": "Nike Team Basketball Short",
             "priceAfter": "24.95",
@@ -10,7 +10,7 @@
         },
         {
             "id": "2",
-            "product": "./db/2.webp",
+            "product": "db/2.webp",
             "brand": "Nike",
             "des": "Nike Reversible Tanktop",
             "priceAfter": "27.95",
@@ -18,7 +18,7 @@
         },
         {
             "id": "3",
-            "product": "./db/3.webp",
+            "product": "db/3.webp",
             "brand": "Nike",
             "des": "Adidas Donovan Mitchell Cotton Short",
             "priceAfter": "25.00",
@@ -26,7 +26,7 @@
         },
         {
             "id": "4",
-            "product": "./db/4.webp",
+            "product": "db/4.webp",
             "brand": "Adidas",
             "des": "Adidas D.O.N. Issue 4 Cap",
             "priceAfter": "14.00",
@@ -34,7 +34,7 @@
         },
         {
             "id": "5",
-            "product": "./db/5.webp",
+            "product": "db/5.webp",
             "brand": "Nike",
             "des": "Basketball Net Crew Sweater",
             "priceAfter": "18.00",
@@ -42,7 +42,7 @@
         },
         {
             "id": "6",
-            "product": "./db/6.webp",
+            "product": "db/6.webp",
             "brand": "Brabo",
             "des": "Brabo Formule 3 Legguards",
             "priceAfter": "158.95",
@@ -50,7 +50,7 @@
         },
         {
             "id": "7",
-            "product": "./db/7.webp",
+            "product": "db/7.webp",
             "brand": "Brabo",
             "des": "Brabo Formule 2 Klompen",
             "priceAfter": "157.95",
@@ -58,7 +58,7 @@
         },
         {
             "id": "8",
-            "product": "./db/8.webp",
+            "product": "db/8.webp",
             "brand": "Grays",
             "des": "Grays MH1 GK8000 Ultrabow Goalie",
             "priceAfter": "181.95",
@@ -66,7 +66,7 @@
         },
         {
             "id": "9",
-            "product": "./db/9.webp",
+            "product": "db/9.webp",
             "brand": "Princess",
             "des": "Princess Premium 4K 10 Star SGX Extreme LowBow",
             "priceAfter": "199.95",
@@ -74,7 +74,7 @@
         },
         {
             "id": "10",
-            "product": "./db/10.webp",
+            "product": "db/10.webp",
             "brand": "Adidas",
             "des": "Adidas Winners 2.0 Tanktop Women",
             "priceAfter": "18.00",
@@ -82,7 +82,7 @@
         },
         {
             "id": "11",
-            "product": "./db/11.webp",
+            "product": "db/11.webp",
             "brand": "QuickPlay",
             "des": "QuickPlay Base Weight 2x 3kg",
             "priceAfter": "35.95",
@@ -90,7 +90,7 @@
         },
         {
             "id": "12",
-            "product": "./db/12.webp",
+            "product": "db/12.webp",
             "brand": "Kempa",
             "des": "Kempa Promo Shirt Kids",
             "priceAfter": "7.95",
@@ -98,7 +98,7 @@
         },
         {
             "id": "13",
-            "product": "./db/13.webp",
+            "product": "db/13.webp",
             "brand": "Kempa",
             "des": "Kempa Reversible Training Bib",
             "priceAfter": "5.00",
@@ -106,7 +106,7 @@
         },
         {
             "id": "14",
-            "product": "./db/14.webp",
+            "product": "db/14.webp",
             "brand": "Nike",
             "des": "Nike Team Stock Cover Top",
             "priceAfter": "39.95",
@@ -114,7 +114,7 @@
         },
         {
             "id": "15",
-            "product": "./db/15.webp",
+            "product": "db/15.webp",
             "brand": "McDavid",
             "des": "McDavid Jumpy Pad",
             "priceAfter": "17.95",
@@ -122,7 +122,7 @@
         },
         {
             "id": "16",
-            "product": "./db/16.webp",
+            "product": "db/16.webp",
             "brand": "Herzog",
             "des": "Herzog Pro Compression Sock Size III",
             "priceAfter": "49.95",
@@ -130,7 +130,7 @@
         },
         {
             "id": "17",
-            "product": "./db/17.webp",
+            "product": "db/17.webp",
             "brand": "Erima",
             "des": "Erima Team Sports Bag with Bottom Compar",
             "priceAfter": "19.95",
@@ -138,7 +138,7 @@
         },
         {
             "id": "18",
-            "product": "./db/18.webp",
+            "product": "db/18.webp",
             "brand": "Goodr",
             "des": "Goodr Sunglasses",
             "priceAfter": "28.00",
@@ -146,7 +146,7 @@
         },
         {
             "id": "19",
-            "product": "./db/19.webp",
+            "product": "db/19.webp",
             "brand": "MC David",
             "des": "MC David Compression Short",
             "priceAfter": "27.00",
@@ -154,7 +154,7 @@
         },
         {
             "id": "20",
-            "product": "./db/20.webp",
+            "product": "db/20.webp",
             "brand": "Adidas",
             "des": "Adidas Squadra 21 Presentation Pant",
             "priceAfter": "22.00",
@@ -162,7 +162,7 @@
         },
         {
             "id": "21",
-            "product": "./db/21.webp",
+            "product": "db/21.webp",
             "brand": "Nike",
             "des": "Nike Skylon ACE",
             "priceAfter": "68.95",
@@ -170,7 +170,7 @@
         },
         {
             "id": "22",
-            "product": "./db/22.webp",
+            "product": "db/22.webp",
             "brand": "Adidas",
             "des": "Adidas Squadra 21 Presentation Jack",
             "priceAfter": "41.95",
@@ -178,7 +178,7 @@
         },
         {
             "id": "23",
-            "product": "./db/23.webp",
+            "product": "db/23.webp",
             "brand": "SiS",
             "des": "SiS Beta Fuel Lemon Energy Chew Bar",
             "priceAfter": "3.49",
@@ -186,7 +186,7 @@
         },
         {
             "id": "24",
-            "product": "./db/24.webp",
+            "product": "db/24.webp",
             "brand": "Mizuno",
             "des": "Mizuno Wave Stealth V Women",
             "priceAfter": "134.95",
@@ -194,7 +194,7 @@
         },
         {
             "id": "25",
-            "product": "./db/25.webp",
+            "product": "db/25.webp",
             "brand": "ASICS",
             "des": "ASICS Sky Elite ff 2",
             "priceAfter": "134.95",
@@ -202,7 +202,7 @@
         },
         {
             "id": "26",
-            "product": "./db/26.webp",
+            "product": "db/26.webp",
             "brand": "Select",
             "des": "Select Torneo",
             "priceAfter": "13.50",
@@ -210,7 +210,7 @@
         },
         {
             "id": "27",
-            "product": "./db/27.webp",
+            "product": "db/27.webp",
             "brand": "Nike",
             "des": "Nike Swoosh Headband",
             "priceAfter": "9.95",
@@ -218,7 +218,7 @@
         },
         {
             "id": "28",
-            "product": "./db/28.webp",
+            "product": "db/28.webp",
             "brand": "Starvie",
             "des": "Starvie Metheora Junior 21",
             "priceAfter": "61.95",
@@ -226,7 +226,7 @@
         },
         {
             "id": "29",
-            "product": "./db/29.webp",
+            "product": "db/29.webp",
             "brand": "Toolz",
             "des": "Toolz Exercise Wheel - Dia",
             "priceAfter": "17.95",
@@ -234,7 +234,7 @@
         },
         {
             "id": "30",
-            "product": "./db/30.webp",
+            "product": "db/30.webp",
             "brand": "Head",
             "des": "Head Sprint Pro 3.0 SF Clay",
             "priceAfter": "161.95",
