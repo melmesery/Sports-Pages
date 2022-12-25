@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": "1",
-            "product": "./db/1.webp",
+            "product": "db/1.webp",
             "brand": "Nike",
             "des": "Nike Team Basketball Short",
             "priceAfter": "24.95",
