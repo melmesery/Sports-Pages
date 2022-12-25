@@ -1,37 +1,4 @@
-[
-    {
-    "id": "1",
-    "img": "db/1.webp",
-    "branding": "Nike",
-    "desc": "Nike Team Basketball Short",
-    "After": "24.95",
-    "Before": "26.95"
-    },
-    {
-    "id": "2",
-    "img": "db/2.webp",
-    "branding": "Nike",
-    "desc": "Nike Reversible Tanktop",
-    "After": "27.95",
-    "Before": "30.95"
-    },
-    {
-    "id": "3",
-    "img": "db/3.webp",
-    "branding": "Nike",
-    "desc": "Adidas Donovan Mitchell Cotton Short",
-    "After": "25.00",
-    "Before": "30.95"
-    },
-    {
-    "id": "4",
-    "img": "db/4.webp",
-    "branding": "Adidas",
-    "desc": "Adidas D.O.N. Issue 4 Cap",
-    "After": "14.00",
-    "Before": "17.00"
-    },
-   {
+{
     "posts": [
         {
             "id": "1",
